@@ -12,9 +12,10 @@ To this day, I have already built the following solutions:
 
 Although I'm most comfortable working with the following technologies:
 * MongoDB
-* ExpressJS
-* ReactJS
-* NextJS
+* Express.js
+* React.js
+* AngularJS
+* Next.js
 * Redux
 * GraphQL
 * PostgreSQL
